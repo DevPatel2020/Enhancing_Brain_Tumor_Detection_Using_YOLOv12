@@ -19,7 +19,7 @@ This repository presents our research on **automated brain tumor detection using
 - **🏛️ University:** CHARUSAT (Devang Patel Institute of Advanced Technology & Research)  
 - **🧑‍🤝‍🧑 Authors:** , Dev K Patel, Hari S Patel, Meet K Patel, Dhairya K Patel 
 - **👩‍🏫 Mentor:** Ms. Mohini Darji  
-- **📎 Download Paper:** 
+- **📎 Download Paper:** paper/Enhancing Brain Tumor Detection Using YOLOv12.pdf
 
 ---
 
