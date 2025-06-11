@@ -17,9 +17,9 @@ This repository presents our research on **automated brain tumor detection using
 - **📄 Title:** Enhancing Brain Tumor Detection Using YOLOv12  
 - **📚 Conference:** IEEE ICICI-2025  
 - **🏛️ University:** CHARUSAT (Devang Patel Institute of Advanced Technology & Research)  
-- **🧑‍🤝‍🧑 Authors:** Hari S Patel, Meet K Patel, Dhairya K Patel, Dev K Patel  
+- **🧑‍🤝‍🧑 Authors:** , Dev K Patel, Hari S Patel, Meet K Patel, Dhairya K Patel 
 - **👩‍🏫 Mentor:** Ms. Mohini Darji  
-- **📎 Download Paper:** [paper/Enhancing_Brain_Tumor_Detection_Using_YOLOv12.pdf](paper/Enhancing_Brain_Tumor_Detection_Using_YOLOv12.pdf)
+- **📎 Download Paper:** 
 
 ---
 
